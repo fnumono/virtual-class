@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "08191ffbd13383b98152a1367b19429d"
+build_time: [529813925, 469575000]
+inputs:
+  "/Users/pramonowang/Desktop/Vacation_360/Vacation 360/VacationViewController.swift": [529813925, 0]
+  "/Users/pramonowang/Desktop/Vacation_360/Vacation 360/AppDelegate.swift": [529811841, 0]

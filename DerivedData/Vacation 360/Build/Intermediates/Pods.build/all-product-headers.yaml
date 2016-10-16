@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/pramonowang/Desktop/Vacation_360/DerivedData/Vacation 360/Build/Products/Debug-iphoneos/Pods_Vacation_360.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-Vacation 360-umbrella.h",
+          'external-contents': "/Users/pramonowang/Desktop/Vacation_360/Pods/Target Support Files/Pods-Vacation 360/Pods-Vacation 360-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_Vacation_360-Swift.h",
+          'external-contents': "/Users/pramonowang/Desktop/Vacation_360/DerivedData/Vacation 360/Build/Products/Debug-iphoneos/Pods_Vacation_360.framework/Headers/Pods_Vacation_360-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/pramonowang/Desktop/Vacation_360/DerivedData/Vacation 360/Build/Products/Debug-iphoneos/Pods_Vacation_360.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/pramonowang/Desktop/Vacation_360/DerivedData/Vacation 360/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Vacation 360.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

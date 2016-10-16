@@ -1,0 +1,8 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "fbd1f4f5f3fccfd7d38024f36e9c54ae"
+build_time: [529888842, 496463000]
+inputs:
+  "/Users/pramonowang/Desktop/Vacation_360/Vacation 360/LoginViewController.swift": [529886528, 0]
+  "/Users/pramonowang/Desktop/Vacation_360/Vacation 360/CourseTable.swift": [529887123, 0]
+  "/Users/pramonowang/Desktop/Vacation_360/Vacation 360/VacationViewController.swift": [529888841, 0]
+  "/Users/pramonowang/Desktop/Vacation_360/Vacation 360/AppDelegate.swift": [529811841, 0]
